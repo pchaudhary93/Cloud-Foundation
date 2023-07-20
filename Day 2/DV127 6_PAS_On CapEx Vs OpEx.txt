@@ -1,0 +1,63 @@
+6_SAS_On CapEx Vs OpEx
+
+
+
+
+	Q1
+	Most important thing when it comes to building an application/starting a business is capital (Money)? True/False
+	ANS
+	True 
+
+
+	Q2
+	What would small and large businesses have to purchase if they want to grow their business?
+	ANS
+	They have to purchase servers and data centers.
+
+
+	Q3
+	 Nowadays businesses don’t have to invest in services like data centers or services they can get all those services for cloud service providers? True/False. 
+	ANS
+	True 
+
+
+	Q4
+	What are two options that businesses have now that help businesses to provide  services to their customers faster?
+	ANS
+	Capital expenditure and operating expenditure. 
+
+
+	Q5
+	What is CapEx (Capital expenditure)?
+	ANS
+	It is spending money on physical infrastructure/hardwares. 
+
+
+	Q6
+	What is OpEx (Operational expenditure)?
+	ANS
+	Operational expenditure is spending money on services or products and being billed for the companies. 
+
+
+	Q7
+	What is the benefit of using OpEx operational expenditure?
+	ANS
+	There is no upfront cost for companies to pay as they use the services. 
+
+
+	Q8
+	What do we need if we build a data center?
+	ANS
+	In order to build a data center, we need switches, routers, firewalls, and etc. 
+
+
+	Q9
+	What are some examples of OpEx operational expenditure?
+	ANS
+	Some examples are, licenses, maintenance, labor, and etc. 
+
+
+	Q10
+	In cloud services all the CapEx and OpEx are available for a fraction of cost and the user pays as they use the services? True/False
+	ANS
+	True

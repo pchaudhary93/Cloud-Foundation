@@ -1,0 +1,63 @@
+7_SAS_On Cloud Models What is Public Cloud.
+
+
+
+
+	Q1
+	How many types of cloud models are there?
+	ANS
+	Public cloud, private cloud, and hybrid cloud. 
+
+
+	Q2
+	What are public clouds?
+	ANS
+	A public cloud is an IT model where public cloud service providers make computing services including compute and storage, develop and deploy, on-demand services over the public internet. 
+
+
+	Q3
+	Services provided by cloud service providers users can save money because they are sharing resources and services with other cloud users over the internet? True/False.
+	ANS
+	True 
+
+
+	Q4
+	When using the cloud services from cloud service providers who maintains the hardware if anything happens?
+	ANS
+	Cloud service provider is fully responsible for maintaining the hardware and making it available to its users. 
+
+
+	Q5
+	What are some examples of public cloud service providers?
+	ANS
+	Amazon Web services, Microsoft Azure, and Google Cloud. 
+
+
+	Q6
+	What are some examples of companies that use public clouds?
+	ANS
+	Netflix, Kroger, Dropbox, etc. 
+
+
+	Q7
+	Public clouds are used by both small and large companies? True/False.
+	ANS
+	True 
+
+
+	Q8
+	When cloud users share computing resources to save cost it is called ________?
+	ANS
+	Multi-tenancy 
+
+
+	Q9
+	Is it easy to build the hardware compared to using the hardware provided in public clouds? True/False.
+	ANS
+	True 
+
+
+	Q10
+	Why is it cheaper to use cloud service from cloud service providers like AWS?
+	ANS
+	Because users only pay for the services that they are using.

@@ -1,0 +1,63 @@
+8_SAS_On Cloud Models- Characteristics of Public Cloud.
+
+
+
+
+	Q1
+	What are the characteristics of Public cloud?
+	ANS
+	Multiple end users, public access, connectivity, skills, ownership, and availability. 
+
+
+	Q2
+	What is Ownership in the public cloud?
+	ANS
+	It’s the resources that companies or end users use. Like CPU, memory, storage, and processing power. The resources doesn’t belong to the companies and it’s owned and maintained by third party companies. 
+
+
+	Q3
+	What are Multiple End Users in the public cloud?
+	ANS
+	When a cloud model makes their resources available to different companies. 
+
+
+	Q4
+	What is public access in the public cloud?
+	ANS
+	It is defined as computing services offered by third-party providers over the public internet, making them available to anyone who wants to use or purchase them. 
+
+
+	Q5
+	What is availability in the public cloud?
+	ANS
+	The services you are delivering to your customers are up and running most of the time. 
+
+
+	Q6
+	What is connectivity in the public cloud?
+	ANS
+	The users are typically connected to the public cloud over the internet using web browsers.
+
+ 
+	Q7
+	What are skills in the public cloud?
+	ANS
+	It doesn’t require technical knowledge to set up in the companies. 
+
+
+	Q8
+	Public clouds do not require too much resources to run an organization? True/False.
+	ANS
+	True 
+
+
+	Q9
+	What are the basic things users might need to access public clouds?
+	ANS
+	Laptops, tablets, mobiles that will have a browser and basic internet connectivity. 
+
+
+	Q10
+	The skills in the public clouds are managed by the cloud providers? True/False.
+	ANS
+	True

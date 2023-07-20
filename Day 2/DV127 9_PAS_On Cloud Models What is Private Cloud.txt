@@ -1,0 +1,63 @@
+9_SAS_On Cloud Models What is Private Cloud
+
+
+
+
+	Q1
+	What are private clouds?
+	ANS
+	It is owned and operated by an organization that uses resources for the private cloud. 
+
+
+	Q2
+	The organizations or enterprises create their own cloud environment with private clouds? True/False.
+	ANS
+	True 
+
+
+	Q3
+	What are the other things organizations can have in their own cloud environment?
+	ANS
+	It will be their own data centers including storage, hardwares, and all the resources they need. 
+
+
+	Q4
+	Private cloud in an organization means employees of the organization can use a self service provisioning portal to login to the private cloud and create computing resources? True/False.
+	ANS
+	True 
+
+
+	Q5
+	When it comes to the private cloud, who is responsible for operating and maintaining the private cloud?
+	ANS
+	Private cloud is responsible. 
+
+
+	Q6
+	What is a good example of using a private cloud?
+	ANS
+	If companies have their own data centers they don’t want to put in a public cloud. 
+
+
+	Q7
+	What would be another reason an organization might not want to put some data into a public cloud?
+	ANS
+	There will be legal reasons. 
+
+
+	Q8
+	What type of legal reason would an organization have to not put some data into a public cloud?
+	ANS
+	They will not put some data into a public cloud like medical data and government data. 
+
+
+	Q9
+	There is also some government data that a country might want to put safely within private data? True/False.
+	ANS
+	True 
+
+
+	Q10
+	What is the difference between public cloud and private cloud?
+	ANS
+	The public clouds are provided by AWS, Microsoft Azure, and Google Cloud and they are responsible for maintaining it but in private clouds most companies own data centers and they are not public.

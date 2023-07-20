@@ -1,0 +1,63 @@
+10_SAS_On Cloud Models Characteristics of Private Cloud.
+
+
+
+
+	Q1
+	What is a private cloud?
+	ANS
+	It is owned and operated by companies and uses its own resources from that cloud. 
+
+
+	Q2
+	What are the characteristics of a private cloud?
+	ANS
+	Hardware, users, ownership, skills, and connectivity. 
+
+
+	Q3
+	What is ownership in a private cloud?
+	ANS
+	The owner and user of cloud services are the same. 
+
+
+	Q4
+	What is the comparison between public cloud and private cloud?
+	ANS
+	In a public cloud, organizations use shared cloud infrastructure while in a private cloud, organizations use their own infrastructure. 
+
+
+	Q5
+	What is hardware in a private cloud?
+	ANS
+	The hardware for a private cloud is controlled and managed by one organization. 
+
+
+	Q6
+	What are users in a private cloud?
+	ANS
+	Cloud users means any person making use of a CPS’s cloud services. 
+
+
+	Q7
+	What is connectivity in a private cloud?
+	ANS
+	It provides dedicated, direct and secure connections between parties, such as between a business and a network or cloud provider. 
+
+
+	Q8
+	The connection to a private cloud is not available to the public? True/False.
+	ANS
+	True 
+
+
+	Q9
+	What is public access in a private cloud?
+	ANS
+	Public cannot access any private resources available in a private cloud. 
+
+
+	Q10
+	What are skills in a private cloud?
+	ANS
+	It will require a deep technical knowledge because a private cloud owner has to set up, maintain, and manage its infrastructure.
