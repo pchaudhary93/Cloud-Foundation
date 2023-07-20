@@ -1,0 +1,63 @@
+5_SAS_On Economies of Scale
+
+
+
+
+	1
+	What is the concept of economies of scale?
+	ANS
+	It’s cost advantages reaped by companies when production becomes efficient. 
+
+
+	2
+	In cloud services which companies are able to leverage from economies of scale.
+	ANS
+	The companies are Microsoft, Google, and Amazon. 
+
+
+	3
+	In what way have the large cloud service providers been able to provide cloud services at lower prices to their users?
+	ANS
+	The cost of storage has gone significantly lower. 
+
+
+	4
+	Cloud service providers competing against each other is also the reason for lower cloud service prices for users? True/False
+	ANS
+	True 
+
+
+	5
+	What is Investment in R&D in economies of  scope and scale?
+	ANS
+	An increase in all inputs resulting in a more than proportional increase in research output indicates increasing returns to scale. 
+
+
+	6
+	What is Faster R&D innovation in economies of  scope and scale?
+	ANS
+	It’s vendor responsiveness, product and process innovation, and new different features.
+
+
+	7
+	What is the Increased success rate in economies of  scope and scale?
+	ANS
+	The faster growth in the installed base of computers. 
+
+
+	8
+	What is Infrastructure costs decrease in economies of  scope and scale?
+	ANS
+	Security and reliability, buying power, and cost of power. 
+
+
+	9
+	What is Utilization variability decreases in economies of  scope and scale?
+	ANS
+	It’s usage variability diversified away leading to better utilization. 
+
+
+	10
+	What is Faster revenue growth in economies of  scope and scale?
+	ANS
+	It's a large contribution per seat.

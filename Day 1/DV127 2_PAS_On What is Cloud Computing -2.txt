@@ -1,0 +1,63 @@
+2_SAS_On What is Cloud Computing -2.
+
+
+
+
+	1.
+	What are some examples of services provided by cloud service providers?
+	Ans
+	Some examples are CPU, memory, storage, and network. 
+
+
+	2.
+	What is the benefit of using cloud services from cloud service providers?
+	Ans
+	The cloud delivers more flexibility and reliability, increased performance and efficiency, and helps to lower IT costs. 
+
+
+	3.
+	What are some popular examples of cloud service providers?
+	Ans
+	Amazon Web Services (AWS), Google Cloud, and Microsoft Azure. 
+
+
+	4.
+	What are some cloud computing services?
+	Ans
+	Dropbox, Microsoft Office 365, and Slack. 
+
+
+	5.
+	What is compute power?
+	Ans
+	The amount of computing resources that can be used to complete a given task is known as computing power. 
+
+
+	6.
+	Virtual Machines, Containers and Serverless computing are different? True/False 
+	Ans
+	False
+
+
+	7.
+	What is container computing?
+	Ans
+	Containers are packages of software that contain all of the necessary elements to run in any environment. 
+
+
+	8.
+	What is a docker?
+	Ans
+	Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. 
+
+
+	9.
+	What is serverless computing?
+	Ans
+	Serverless is a cloud computing application development and execution that enables developers to build and run application code without provisioning or managing servers or backend infrastructure. 
+
+
+	10.
+	What is the core idea of serverless computing?
+	Ans
+	Serverless computing is a cloud computing execution model that lets software developers build and run applications and servers without having to provision or manage the back-end infrastructure.

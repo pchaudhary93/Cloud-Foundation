@@ -1,0 +1,63 @@
+1_SAS_On What is Cloud Computing -1.
+
+
+
+
+	Q1
+	What type of hardware do we need to build an application?
+	Ans
+	We will need servers, operating servers and license, firewall, routers, switches, load balancers, databases, etc. 
+
+
+	Q2
+	What is the difference between capital expenditure and operational expenditure?
+	Ans
+	Capital expenditures are major purchases a company makes that are designed to be used over the long-term. Operating expenses are day-to-day expenses a company incurs to keep their business operational. 
+
+
+	Q3
+	What type of resource do small businesses and companies have now that wasn’t available traditionally, where companies don’t have to invest in hardware? 
+	Ans
+	On-demand access to web-based applications, data storage, processing, and other services. 
+
+
+	A4
+	What are some examples of cloud providers?
+	Ans
+	The big three - Google Cloud, Microsoft Azure, and Amazon Web Services (AWS) are considered the established leaders. 
+
+
+	Q5
+	What is the benefit of using the cloud?
+	Ans
+	The cloud delivers more flexibility and reliability, increased performance and efficiency, and helps to lower IT costs. 
+
+
+	Q6
+	What is the difference between initial traditional hardware setup and cloud?
+	Ans
+	Hardware is tangible and fixed, while cloud is intangible and flexible. Cloud computing relies on the internet and remote servers, while traditional computing uses local hardware and software. 
+
+
+	Q7
+	What is cloud computing?
+	Ans
+	Cloud computing is the delivery of computing services including servers, storages, databases, networking, software, analytics, and intelligence. 
+
+
+	Q8
+	What is the benefit of using cloud computing?
+	Ans
+	Cloud computing gives your business more flexibility. 
+
+
+	Q9
+	Where can someone access cloud computing from?
+	Ans
+	Data that is stored in the cloud can be accessed by visiting the website or mobile application of the cloud services provider. 
+
+
+	Q10
+	What was the example given by the federal CIO on cloud computing?
+	Ans
+	The example was today, shared public utilities give us access to clean water by simply turning on the tap; cloud computing works in a similar fashion.

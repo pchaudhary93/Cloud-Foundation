@@ -1,0 +1,63 @@
+4_SAS_On key Concepts and Terminology
+
+
+
+
+	Q1
+	What are key concepts in cloud services?
+	ANS
+	The key concepts in cloud services are high availability, scalability, and elasticity. 
+
+
+	Q2
+	What is high availability in cloud services?
+	ANS
+	The idea is to make your products, services, and tools available to your customers and employees at any time from anywhere using any device with an internet connection. 
+
+
+	Q3
+	What is scalability in cloud services?
+	ANS
+	It is the ability of a cloud computing system to adapt to changing computing requirements by either increasing or decreasing its resources. 
+
+
+	Q4
+	What is elasticity in cloud services?
+	ANS
+	Cloud service elasticity is the ability to increase or decrease the amount of system capacity such as CPU, storage, memory, and input/output. 
+
+
+	Q5
+	What is the difference between elasticity and scalability?
+	ANS
+	Scalability is the ability to add, remove, or reconfigure hardware and software resources to handle an increase or decrease in usage. Elasticity is automatically scaling up or down resources to meet user demands. 
+
+
+	Q6
+	What is agility in cloud services?
+	ANS
+	Cloud agility is the ability to quickly develop, test, and launch applications in a cloud-based environment. 
+
+
+	Q7
+	What is fault tolerance in cloud services?
+	ANS
+	The ability of a system computer, network, cloud cluster, etc. to continue operating without interruption when one or more of its components fail. 
+
+
+	Q8
+	What is disaster recovery in cloud services?
+	ANS
+	The strategies and services enterprise apply for the purpose of backing up applications, resources, and data into a cloud environment. 
+
+
+	Q9
+	What are customer latency capabilities in cloud services?
+	ANS
+	Cloud service latency is the delay between a client request and a cloud service provider’s response. 
+
+
+	Q10
+	What are predictive cost considerations in cloud services?
+	ANS
+	The ability for users to predict what costs they will incurfor a particular cloud service.
