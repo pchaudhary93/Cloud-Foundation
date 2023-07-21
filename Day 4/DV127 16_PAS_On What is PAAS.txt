@@ -1,0 +1,63 @@
+16_SAS_On What is PAAS.
+
+
+
+
+	Q1
+	What are developers responsible for?
+	ANS
+	Developers are responsible for writing code, building applications, and making sure the applications run and work. 
+
+
+	Q2
+	What is the major roadblock that developers have?
+	ANS
+	They don’t have an understanding of the underlying infrastructure where the application will be hosted. 
+
+
+	Q3
+	What is an example of a roadblock that developers face?
+	ANS
+	It would be the developer may not know what backups are and encryption is.
+
+
+	Q4
+	What is PAAS Platform as a service?
+	ANS
+	Platform as a Service is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet. 
+
+
+	Q5
+	Platform as a service provides an environment for building, testing, and deploying software applications? True/False.
+	ANS
+	True 
+
+
+	Q6
+	What is the goal of PAAS Platform as a service?
+	ANS
+	PaaS services provide a shared software development environment that allows development and operations teams access to all the tools they need, from any location with an internet connection. 
+
+
+	Q7
+	What is the benefit of using Platform as a service?
+	ANS
+	It allows businesses to easily deploy, run, and manage custom cloud applications without the complexity of building and maintaining their own servers and infrastructure. 
+
+
+	Q8
+	PAAS platform as a service is a complete development and deployment environment in the cloud? True/False.
+	ANS
+	True 
+
+
+	Q9
+	Where are the resources purchased from with Platform as a service PAAS?
+	ANS
+	It’s purchased from cloud service providers. 
+
+
+	Q10
+	With Platform as a service, users/developers are responsible for the development of their own applications however they are not responsible for managing the server or underlying infrastructure. This allows the user, developer to focus on building the application or the workloads they want to run. True/False
+	ANS
+	True

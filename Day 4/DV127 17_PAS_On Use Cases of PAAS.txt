@@ -1,0 +1,63 @@
+17_SAS_On Use Cases of PAAS.
+
+
+
+
+	Q1
+	What is PAAS Platform as a service?
+	ANS
+	It is a hosting model in which instead of providing the basic operating system users will be provided with the platform on which the user needs to build something for the end users. 
+
+
+	Q2
+	What is PAAS referred to as _______________?
+	ANS
+	Serverless design
+
+
+	Q3
+	What are some popular platforms as a service?
+	ANS
+	Google Cloud, Microsoft Azure, AWS, IBM Cloud, etc. 
+
+
+	Q4
+	What is the benefit of using DBMS with PAAS?
+	ANS
+	The users don’t have to manage the database management services. 
+
+
+	Q5
+	What are other benefits of DBMS?
+	ANS
+	DBMS are inbuilt monitoring, automatic backups, and minimal intervention. 
+
+
+	Q6
+	What are some examples of DBMS minimal intervention required for optimizing user queries?
+	ANS
+	Azure SQL, Amazon relational database service, Google clouds, and etc. 
+
+
+	Q7
+	What is web application hosting?
+	ANS
+	It is another popular use case where users will get the run time for web applications like php, .net, node js, java, and etc. 
+
+
+	Q8
+	What are some examples of web application hosting?
+	ANS
+	Azure Webapps, Google App Engine, Elastic Beanstalk. 
+
+
+	Q9
+	What are some examples of Container services?
+	ANS
+	Azure container services, Amazon elastic container services, Google Kubernetes engine and Google container service.
+
+
+	Q10
+	What are some examples of Big Data services?
+	ANS
+	Azure data, Hd insight, Google big data and big query.

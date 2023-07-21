@@ -1,0 +1,33 @@
+19_SAS_On Cloud Models Shared Responsibility Model.
+
+
+
+
+	Q1
+	How many types of cloud models are available?
+	ANS
+	On Premises, IAAS, PAAS, and SAAS.  
+
+
+	Q2
+	With an on premises cloud model what does an organization/user manage and what is managed by a cloud service provider?
+	ANS
+	An organization manages applications, data, runtime, operating system, servers, storage, networking, and virtualization. 
+
+
+	Q3
+	With infrastructure as a service cloud model what is managed by a cloud service provider and what is managed by an organization/user? 
+	ANS
+	With IAAS, it manages applications, data, runtime, operating system, servers, storage, networking, and virtualization. 
+
+
+	Q4
+	With Platform as a service cloud model what is managed by a cloud service provider and what is managed by an organization/user?
+	ANS
+	With PAAS, it manages applications, data, runtime, operating system, servers, storage, networking, and virtualization.
+
+
+	Q5
+	With software as a service cloud model what does an organization/user manage and what is managed by a cloud service provider?
+	ANS
+	With SAAS, it manages applications, data, runtime, operating system, servers, storage, networking, and virtualization.

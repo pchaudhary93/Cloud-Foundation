@@ -1,0 +1,63 @@
+18_SAS_On What is SAAS.
+
+
+
+
+	Q1
+	What is software as a service?
+	ANS
+	It is a method of software delivery that allows data to be accessed from any device with an internet connection and a web browser. 
+
+
+	Q2
+	In the web based model software vendors host and maintain servers, databases, and the core that constitute the application. True/False? 
+	ANS
+	True 
+
+
+	Q3
+	How is web based software model different from on premise software model? 
+	ANS
+	It’s different because web based software models are available on cloud and companies do not have to invest in extensive hardware to host the software. 
+
+
+	Q4
+	What is the benefit of a web based software model?
+	ANS
+	It allows buyers to outsource most of IT responsibility. 
+
+
+	Q5
+	SAAS Software as a service provider will take care of everything including the software. True/False
+	ANS
+	True 
+
+
+	Q6
+	In addition to allowing remote access through the web to software applications and data Software as a service also differs from _____________?
+	ANS
+	On premise software 
+
+
+	Q7
+	How is web software as a service different from on premise software?
+	ANS
+	It’s different because of the pricing model. On premise software is purchased through a perpetual license. 
+
+
+	Q8
+	Software as a service on the other hand allows buyers to pay annual or monthly subscription fees which typically includes software license, support and most of the other fees. True/False.
+	ANS
+	True 
+
+
+	Q9
+	What is the benefit of SAAS?
+	ANS
+	It is being able to spread out cost over time. 
+
+
+	Q10
+	What are some examples of Software as a service?
+	ANS
+	Office 365, Gmail, and salesforce.
